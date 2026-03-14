@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Division", "02. Divisio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Vacation", "03. Vacation\03. Vacation.csproj", "{CA7B94DB-BC80-4981-BC00-D7E8DFE6F5F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Print and sum", "04. Print and sum\04. Print and sum.csproj", "{40D0173C-3DB7-4F07-8B4C-0329CF2BD5B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CA7B94DB-BC80-4981-BC00-D7E8DFE6F5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA7B94DB-BC80-4981-BC00-D7E8DFE6F5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA7B94DB-BC80-4981-BC00-D7E8DFE6F5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D0173C-3DB7-4F07-8B4C-0329CF2BD5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D0173C-3DB7-4F07-8B4C-0329CF2BD5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D0173C-3DB7-4F07-8B4C-0329CF2BD5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D0173C-3DB7-4F07-8B4C-0329CF2BD5B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
