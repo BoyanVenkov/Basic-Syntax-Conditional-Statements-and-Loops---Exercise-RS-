@@ -1,7 +1,6 @@
 ﻿string input = Console.ReadLine();
 double totalMoney = 0;
 
-// Първи цикъл: Събиране на монети
 while (input != "Start")
 {
     double coin = double.Parse(input);
